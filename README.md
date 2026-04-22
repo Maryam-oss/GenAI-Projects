@@ -158,3 +158,4 @@ This project demonstrates practical implementation of modern Generative AI techn
 # Note
 
 All tasks are implemented using open-source tools and are optimized to run on local systems or free cloud platforms like Google Colab.
+
